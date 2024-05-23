@@ -7,6 +7,7 @@ Original Paper URL:
 [https://ieeexplore.ieee.org/document/8969574](https://ieeexplore.ieee.org/document/8969574)
 
 If you use this project, cite:
+    
     @inproceedings{da2019trunk,
       title={Trunk detection and tree disparity calculation in uncontrolled environments},
       author={da Silva Vieira, Gabriel and Soares, Fabrizzio AAMN and de Lima, Junio Cesar and Laureano, Gustavo T and Santos, Samuel A and Costa, Ronaldo M and                 Salvini, Rogerio},
